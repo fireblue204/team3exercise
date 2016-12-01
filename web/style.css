@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+#labLogin {
+	font-family: "幼圆";
+	font-size: 48px;
+	color: #3C9;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 53px;
+	width: 157px;
+	left: 883px;
+	top: 52px;
+}
+#labUserame {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 61px;
+	width: 156px;
+	left: 680px;
+	top: 193px;
+}
+#labPassword {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 72px;
+	width: 156px;
+	left: 680px;
+	top: 336px;
+}
+#textUsername {
+	position: absolute;
+	font-size:28px;
+	height: 63px;
+	width: 370px;
+	left: 837px;
+	top: 193px;
+}
+#textPassword {
+	position: absolute;
+	font-size:28px;
+	height: 63px;
+	width: 370px;
+	top: 336px;
+	left: 837px;
+}
+#btnLogin {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 163px;
+	top: 485px;
+	left: 837px;
+	background-color: #33CC99;
+	font-family: "幼圆";
+	font-weight: bold;
+	font-size: 28px;
+	color: #FFC;
+}
+#btnSign {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 163px;
+	top: 485px;
+	left: 1044px;
+	color: #FFC;
+	font-family: "幼圆";
+	font-weight: bold;
+	font-size: 28px;
+	background-color: #33CC99;
+#Login {
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	left: 125px;
+	top: 0px;
+}

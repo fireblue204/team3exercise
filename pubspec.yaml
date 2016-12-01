@@ -1,0 +1,19 @@
+name: 'pg'
+version: 0.0.1
+description: A web app built using polymer.dart.
+#author: Your Name <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.9.0 <2.0.0'
+
+dependencies:
+  args:
+  shelf:
+  shelf_route:
+  route_hierarchical:
+  shelf_cors:
+  sqljocky:
+
+dev_dependencies:
+  browser: '>=0.10.0 <0.11.0'

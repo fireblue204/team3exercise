@@ -1,0 +1,571 @@
+@charset "utf-8";
+/* CSS Document */
+
+#labLogin {
+	font-family: "幼圆";
+	font-size: 48px;
+	color: #3C9;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 53px;
+	width: 157px;
+	left: 883px;
+	top: 52px;
+}
+#labUserame {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 61px;
+	width: 156px;
+	left: 680px;
+	top: 193px;
+}
+#labPassword {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	height: 72px;
+	width: 156px;
+	left: 680px;
+	top: 336px;
+}
+#textUsername {
+	position: absolute;
+	font-size:28px;
+	height: 63px;
+	width: 370px;
+	left: 837px;
+	top: 193px;
+}
+#textPassword {
+	position: absolute;
+	font-size:28px;
+	height: 63px;
+	width: 370px;
+	top: 336px;
+	left: 837px;
+}
+#btnLogin {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 163px;
+	top: 485px;
+	left: 837px;
+}
+#btnSign {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 163px;
+	top: 485px;
+	left: 1044px;
+}#divSign {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	left: 1320px;
+	top: 18px;
+}
+#labSign {
+	font-family: "幼圆";
+	font-size: 72px;
+	font-weight: bold;
+	color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 79px;
+	width: 300px;
+	left: 556px;
+	top: 52px;
+}
+#labSUserame {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 61px;
+	width: 183px;
+	left: 372px;
+	top: 235px;
+}
+#labSPassword {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 72px;
+	width: 183px;
+	left: 372px;
+	top: 378px;
+}
+#labSSPassword {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 72px;
+	width: 206px;
+	left: 350px;
+	top: 518px;
+}
+#textSUserame {
+	font-size: 28px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 63px;
+	width: 394px;
+	top: 235px;
+	left: 556px;
+}
+#textSPassord {
+	font-size: 28px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 63px;
+	width: 394px;
+	left: 556px;
+	top: 378px;
+}
+#textSSPassord {
+	font-size: 28px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 63px;
+	width: 394px;
+	left: 556px;
+	top: 518px;
+}
+#btnSLogin {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 174px;
+	left: 556px;
+	top: 673px;
+}
+#btnExit {
+	display: inline-block;
+	position: absolute;
+	height: 77px;
+	width: 174px;
+	left: 776px;
+	top: 673px;
+}
+#divBNa {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	left: 1311px;
+	top: 943px;
+}
+#btnPra {
+	display: inline-block;
+	position: absolute;
+	height: 300px;
+	width: 800px;
+	left: 250px;
+	top: 310px;
+}
+#btnErr {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 518px;
+}
+#btnSiback {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 200px;
+	left: 1040px;
+	top: 840px;
+}
+#divBTea {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	left: 13px;
+	top: 1865px;
+}
+#btnStu {
+	display: inline-block;
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 213px;
+	top: 290px;
+}
+#btnPlay {
+	display: inline-block;
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 764px;
+	top: 290px;
+}
+#btnTB {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 1094px;
+	top: 820px;
+}
+#divLea {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	top: 2786px;
+	left: 13px;
+}
+#btnVideo {
+	display: inline-block;
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 214px;
+	top: 290px;
+}
+#btnPic {
+	display: inline-block;
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 763px;
+	top: 290px;
+}
+#btnLLast {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 913px;
+	top: 840px;
+}
+#btnLBM {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 1113px;
+	top: 840px;
+}
+#divGBF {
+	background-color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+	left: 13px;
+	top: 3702px;
+}
+#inFBa {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 620px;
+	width: 1000px;
+	left: 150px;
+	top: 140px;
+}
+#labTime {
+	font-family: "Arial Unicode MS";
+	font-size: 36px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 380px;
+	left: 270px;
+	top: 148px;
+}
+#labTNum {
+	font-family: "Arial Unicode MS";
+	font-size: 36px;
+	font-weight: bold;
+	color: #600;
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	left: 650px;
+	top: 148px;
+}
+#labSec {
+	font-family: "Arial Unicode MS";
+	font-size: 36px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	left: 690px;
+	top: 148px;
+}
+#labErr {
+	font-family: "Arial Unicode MS";
+	font-size: 36px;
+	color: #000;
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 260px;
+	left: 270px;
+	top: 230px;
+}
+#labENum {
+	font-family: "Arial Unicode MS";
+	font-size: 36px;
+	color: #600;
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	left: 530px;
+	top: 230px;
+}
+#btnAgain {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 180px;
+	left: 520px;
+	top: 490px;
+}
+#btnFBM {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 180px;
+	left: 720px;
+	top: 490px;
+}
+#divBPra {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+}
+#btnPR {
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 200px;
+	top: 290px;
+	display: inline-block;
+}
+#btnPL {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 900px;
+	top: 840px;
+}
+#btnPB {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 1100px;
+	top: 840px;
+}
+#divPRB {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+}
+#btnPRS {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 140px;
+}
+#btnPRM {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 385px;
+}
+#btnPRL {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 630px;
+}
+#btnPRBL {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 900px;
+	top: 840px;
+}
+#btnPRBM {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 1100px;
+	top: 840px;
+}
+#divPWB {
+	background-color: #FFC;
+	display: inline-block;
+}
+#btnPWS {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 140px;
+}
+#btnPWM {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 385px;
+}
+#btnPWL {
+	display: inline-block;
+	position: absolute;
+	height: 150px;
+	width: 400px;
+	left: 450px;
+	top: 630px;
+}
+#btnPWBL {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 900px;
+	top: 840px;
+}
+#btnPWBM {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 1100px;
+	top: 840px;
+}
+
+
+#btnPW {
+	display: inline-block;
+	position: absolute;
+	height: 200px;
+	width: 350px;
+	left: 750px;
+	top: 290px;
+}
+#divPRLBg {
+	background-color: #3C9;
+	display: inline-block;
+	position: absolute;
+	height: 921px;
+	width: 1300px;
+}
+#labPRLP {
+	font-family: "幼圆";
+	font-size: 36px;
+	font-weight: bold;
+	color: #600;
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 250px;
+	left: 50px;
+	top: 40px;
+}
+#divPRLBY {
+	background-color: #FFC;
+	display: inline-block;
+	position: absolute;
+	height: 650px;
+	width: 1000px;
+	left: 150px;
+	top: 120px;
+}
+#labPRLC {
+	font-family: "幼圆";
+	font-size: 30px;
+	font-weight: bold;
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 920px;
+	left: 210px;
+	top: 270px;
+	color: #3C9;
+}
+#labPRLA {
+	display: inline-block;
+	position: absolute;
+	height: 170px;
+	width: 890px;
+	left: 210px;
+	top: 330px;
+	font-size: 18px;
+	color: #600;
+}
+#btnPRLNe {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 700px;
+	top: 676px;
+}
+#btnPRLB {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: 160px;
+	left: 900px;
+	top: 676px;
+}
